@@ -1,7 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb4aa1b7-8788-41eb-9b90-1b4b0710b590" name="Default Changelist" comment="" />
+    <list default="true" id="bb4aa1b7-8788-41eb-9b90-1b4b0710b590" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/midel/NumWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dfs/CombinationSum$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dfs/CombinationSum$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dfs/CombinationSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dfs/CombinationSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dfs/CombinationSum2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dfs/CombinationSum2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dfs/CombinationSum2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dfs/CombinationSum2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dfs/Combine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dfs/Combine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dfs/Exist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dfs/Exist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dfs/FindContinuousSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dfs/FindContinuousSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dfs/GenerateParenthesis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dfs/GenerateParenthesis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dfs/GenerateParenthesis2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dfs/GenerateParenthesis2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dfs/GetPermutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dfs/GetPermutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dfs/LetterCombinations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dfs/LetterCombinations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dfs/PathSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dfs/PathSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dfs/Permutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dfs/Permutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dfs/PermuteUnique.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dfs/PermuteUnique.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dfs/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dfs/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/BackQuestion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/BackQuestion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/Back_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/Back_01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/Back_complete.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/Back_complete.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/Bar_Cutting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/Bar_Cutting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/CanPartition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/CanPartition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/CoinChange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/CoinChange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/CombinationSum4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/CombinationSum4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/CuttingRope.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/CuttingRope.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/CuttingRope_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/CuttingRope_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/DP_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/DP_test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/FindSubstringInWraproundString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/FindSubstringInWraproundString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/GuessNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/GuessNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/LargestDivisibleSubset.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/LargestDivisibleSubset.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/LengthOfLIS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/LengthOfLIS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/MaxProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/MaxProduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/MaxSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/MaxSubArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/MaximalSquare.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/MaximalSquare.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/MinCost.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/MinCost.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/MinPathSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/MinPathSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/MinimumTotal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/MinimumTotal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/MovingCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/MovingCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/NthUglyNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/NthUglyNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/NumDecodings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/NumDecodings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/NumSquares.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/NumSquares.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/SubsetsWithDup.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/SubsetsWithDup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/UniquePathsWithObstacles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/UniquePathsWithObstacles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/WaysToChange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/WaysToChange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/WordBreak.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/WordBreak.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/hard/LargestRectangleArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/hard/LargestRectangleArea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/hard/MaximalRectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/hard/MaximalRectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/interesting/LenLongestFibSubseq.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/interesting/LenLongestFibSubseq.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/list/DeleteNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/list/DeleteNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/list/DetectCycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/list/DetectCycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/list/HasCycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/list/HasCycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/list/IsPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/list/IsPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/list/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/list/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/list/RemoveElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/list/RemoveElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/midel/FindNthDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/midel/FindNthDigit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/midel/LenLongestFibSubseq.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/midel/NumTriplets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/midel/NumTriplets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/other/TopKFrequent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/other/TopKFrequent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/CountBinarySubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/simple/CountBinarySubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/CountDigitOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/simple/CountDigitOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/CountDigitOne2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/simple/CountDigitOne2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/Exchange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/simple/Exchange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/Fib.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/simple/Fib.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/FindRepeatNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/simple/FindRepeatNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/FindRepeatNumber2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/simple/FindRepeatNumber2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/IsPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/simple/IsPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/IsSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/simple/IsSubsequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/simple/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/ModifyString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/simple/ModifyString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/Permute.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/simple/Permute.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/Reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/simple/Reverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/Reverse2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/simple/Reverse2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/RomanToInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/simple/RomanToInt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/simple/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/simple/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/simple/TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/slider_window/LengthOfLongestSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/slider_window/LengthOfLongestSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/slider_window/SubarraysWithKDistinct.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/slider_window/SubarraysWithKDistinct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/sort_algorithm/Bubbing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/sort_algorithm/Bubbing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/sort_algorithm/Half_Search.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/sort_algorithm/Half_Search.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/sort_algorithm/NextPermutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/sort_algorithm/NextPermutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/sort_algorithm/QuickQuery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/sort_algorithm/QuickQuery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/sort_algorithm/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/sort_algorithm/Sort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/sort_algorithm/Sum_delivery_m.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/sort_algorithm/Sum_delivery_m.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/test/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/tree/BFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/tree/BFS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/tree/DFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/tree/DFS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/tree/Inorder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/tree/Inorder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/tree/NextOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/tree/NextOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/tree/Preorder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/tree/Preorder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/tree/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/tree/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/slider_window/LengthOfLongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/slider_window/LengthOfLongestSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Test.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +110,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -29,12 +128,19 @@
     </option>
   </component>
   <component name="ProjectId" id="1frlSJ9UmT1OwH7ueh6FhF9gMQv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -54,7 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LenLongestFibSubseq">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="LenLongestFibSubseq (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interesting.LenLongestFibSubseq" />
       <module name="leetcode" />
@@ -94,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximalRectangle (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.MaximalRectangle" />
+    <configuration name="NumWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midel.NumWays" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dp.*" />
+          <option name="PATTERN" value="midel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.LengthOfLongestSubstring" />
+        <item itemvalue="Application.NumWays" />
         <item itemvalue="Application.LenLongestFibSubseq" />
         <item itemvalue="Application.LenLongestFibSubseq (1)" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.MaximalRectangle (1)" />
-        <item itemvalue="Application.LengthOfLongestSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -181,12 +287,26 @@
       <workItem from="1599710891983" duration="6162000" />
       <workItem from="1599791367280" duration="26000" />
       <workItem from="1599791487052" duration="6578000" />
-      <workItem from="1599816916154" duration="5699000" />
+      <workItem from="1599816916154" duration="7446000" />
+      <workItem from="1599879926983" duration="8159000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -957,46 +1077,6 @@
           <option name="timeStamp" value="297" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/slider_window/LengthOfLongestSubstring.java</url>
-          <line>47</line>
-          <option name="timeStamp" value="298" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/slider_window/LengthOfLongestSubstring.java</url>
-          <line>48</line>
-          <option name="timeStamp" value="299" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/slider_window/LengthOfLongestSubstring.java</url>
-          <line>49</line>
-          <option name="timeStamp" value="300" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/slider_window/LengthOfLongestSubstring.java</url>
-          <line>51</line>
-          <option name="timeStamp" value="302" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/slider_window/LengthOfLongestSubstring.java</url>
-          <line>54</line>
-          <option name="timeStamp" value="303" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/slider_window/LengthOfLongestSubstring.java</url>
-          <line>58</line>
-          <option name="timeStamp" value="304" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/slider_window/LengthOfLongestSubstring.java</url>
-          <line>60</line>
-          <option name="timeStamp" value="306" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/slider_window/LengthOfLongestSubstring.java</url>
-          <line>63</line>
-          <option name="timeStamp" value="307" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/hard/LargestRectangleArea.java</url>
           <line>36</line>
           <option name="timeStamp" value="308" />
@@ -1060,6 +1140,31 @@
           <url>file://$PROJECT_DIR$/src/dp/UniquePathsWithObstacles.java</url>
           <line>99</line>
           <option name="timeStamp" value="332" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/slider_window/LengthOfLongestSubstring.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="341" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/slider_window/LengthOfLongestSubstring.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="353" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/slider_window/LengthOfLongestSubstring.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="354" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/slider_window/LengthOfLongestSubstring.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="357" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/slider_window/LengthOfLongestSubstring.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="359" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

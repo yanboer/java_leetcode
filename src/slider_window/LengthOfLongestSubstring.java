@@ -38,62 +38,42 @@ public class LengthOfLongestSubstring {
     }
     //slider window
     public int lengthOfLongestSubstring(String s) {
-        int left = 0;
-        int right = 0;
-
+        if(s.length() == 0){
+            return 0;
+        }
         int n = s.length();
+        int slow = 0;
+        int fast = 0;
 
-        int result = 1; //结果
+        int result = 1;    //结果
 
-        int sum = 1;    //当前字符串中长度
-        while(left <= right && right <= n - 2){ //right = n - 1时，right++后，会溢出
-            if(checkS(s,left,right)){   //现在字符串有重复
-                left++;
-                if(check(s,left,right,left - 1)){  //移除的字符新字符串里有
-                    sum = sum;
-                }
-                else{
-                    sum -= 1;
-                }
+
+        // Map<String,Integer> map = new HashMap<>();  //key 是 slow、fast 对应的字符，value是出现的次数
+        // map.put(s.substring(0,1),1);
+
+        // while(slow <= fast && fast <= n - 2){   //注意是 n - 2
+        //     fast++;
+        //     map.put(s.substring(fast,fast + 1),map.getOrDefault(s.substring(fast,fast + 1),0) + 1); //放入 map
+        //     while(map.get(s.substring(fast,fast + 1)) > 1){ //出现重复
+        //         map.put(s.substring(slow,slow + 1),map.getOrDefault(s.substring(slow,slow + 1),0) - 1); // -1
+        //         slow++;
+        //     }
+        //     result = Math.max(result,fast - slow + 1);
+        // }
+
+        Set<String> set = new HashSet<>();
+        set.add(s.substring(0,1));
+
+        while(slow <= fast && fast <= n - 2){   //n - 2
+            fast++;
+            while(set.contains(s.substring(fast,fast + 1))){    //重复了
+                set.remove(String.valueOf(s.substring(slow,slow + 1))); //移除慢指针对应的字符
+                slow++;
             }
-            else{   //不重复
-                right++;
-                if(check(s,left,right - 1,right)){ //新字符之前字符串有
-                    sum = sum;
-                }
-                else{   //没有
-                    sum += 1;
-                    result = Math.max(sum,result);
-                }
-            }
+            set.add(s.substring(fast,fast + 1));
+            result = Math.max(result,fast - slow + 1);  //更新值
         }
+
         return result;
-    }
-
-    //检查 (left,right) 中的 s 是否有重复
-    public boolean checkS(String s,int left,int right){
-        boolean flag = false;
-        List<String> list = new LinkedList<>();
-        for(int i = left;i <= right;i++){
-            if(list.contains(s.substring(i,i + 1))){
-                flag = true;
-            }
-            else{
-                list.add(s.substring(i,i + 1));
-            }
-        }
-
-        return flag;
-    }
-
-    //a 位置字符在 (left,right) 中是否存在
-    public boolean check(String s,int left,int right,int a){
-        boolean flag = false;
-        for(int i = left;i <= right;i++){
-            if(s.substring(a,a + 1).equals(s.substring(i,i + 1))){
-                flag = true;
-            }
-        }
-        return flag;
     }
 }
