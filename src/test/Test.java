@@ -130,12 +130,14 @@ public class Test {
 //
 //        System.out.println(list.contains(1));
 //
-//        Map<Integer,Integer> map = new HashMap<>();     //创建哈希表存储 A 数组，使得查询效率提高
-//        map.put(1,3);
-//        map.put(2,4);
-//
-//        map.put(1,5);
-//        System.out.println(map);
+        Map<Integer,Integer> map = new HashMap<>();     //创建哈希表存储 A 数组，使得查询效率提高
+        map.put(1,3);
+        map.put(2,4);
+
+        map.put(1,5);
+        System.out.println(map);
+        System.out.println(map.containsKey(1) == true);
+        System.out.println(map.containsKey(0) == false);
 //
 //        System.out.println(map.containsValue(3));
 //        Set<Integer> set = map.keySet();
@@ -145,12 +147,12 @@ public class Test {
 //            }
 //        }
 
-        List<String> list = new LinkedList<>();
-        list.add("abc");
-
-        String s = "cballo";
-        String a = s.substring(0, 3);
-        System.out.println(list.contains(a));
+//        List<String> list = new LinkedList<>();
+//        list.add("abc");
+//
+//        String s = "cballo";
+//        String a = s.substring(0, 3);
+//        System.out.println(list.contains(a));
 
     }
 
