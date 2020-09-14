@@ -1,5 +1,5 @@
 package pointer;
-
+import java.util.*;
 /**
  * 给定一个整数数组 A，以及一个整数 target 作为目标值，返回满足 i < j < k 且 A[i] + A[j] + A[k] == target 的元组 i, j, k 的数量。
  *
@@ -53,22 +53,32 @@ public class ThreeSumMulti {
      */
     //long 存储 sum
     public int threeSumMulti(int[] A, int target) {
+        int n = A.length;
+        Arrays.sort(A);
         long sum = 0;    //结果
+        for(int i = 0;i < n - 2;i++){
+            int l = i + 1;
+            int r = n - 1;   //右
+            while(A[l] < A[r]){
+                if(A[l] + A[r] == target - A[i]){
+                    int left = l;
+                    int right = r;
+                    while(A[++l] == A[left]);       //找到不等于 A[left] 的下一个数(往后找)
 
-        for(int i = 0;i < A.length;i++){
-            int l = i + 1;  //左
-            int r = A.length - 1;   //右
-            while(l < r){
-                if(A[l] + A[r] > target - A[i]){
+                    while(A[--r] == A[right]);       //找到不等于 A[right] 的下一个数(往前找)
+                    sum += (l - left) * (right - r);
+                }
+                else if(A[l] + A[r] > target - A[i]){
                     r--;
                 }
-                if(A[l] + A[r] == target - A[i]){
-                    sum++;
+                else if(A[l] + A[r] < target - A[i]){
                     l++;
                 }
-                if(A[l] + A[r] < target - A[i]){
-                    l++;
-                }
+            }
+            if(A[l] == A[r] && A[l] + A[r] == target - A[i]){   //C(2,n)
+                int len = r - l + 1;
+                long t = (long)len*(long)(len - 1)/2;
+                sum += t;
             }
         }
         long res = sum%1000000007;

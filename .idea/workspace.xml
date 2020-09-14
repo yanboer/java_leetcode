@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb4aa1b7-8788-41eb-9b90-1b4b0710b590" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hard/MinWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pointer/ThreeSumMulti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pointer/FourSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/test/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/pointer/ThreeSumMulti.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/pointer/ThreeSumMulti.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pointer/ThreeSumMulti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pointer/ThreeSumMulti.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,13 +69,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreeSumMulti">
-    <configuration name="LengthOfLongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="slider_window.LengthOfLongestSubstring" />
+  <component name="RunManager" selected="Application.FourSum">
+    <configuration name="FourSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pointer.FourSum" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="slider_window.*" />
+          <option name="PATTERN" value="pointer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FourSum" />
+        <item itemvalue="Application.NumWays" />
         <item itemvalue="Application.ThreeSumMulti" />
         <item itemvalue="Application.MinWindow" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.LengthOfLongestSubstring" />
-        <item itemvalue="Application.NumWays" />
       </list>
     </recent_temporary>
   </component>
@@ -203,6 +202,8 @@
       <workItem from="1599915785084" duration="23000" />
       <workItem from="1599965222148" duration="4080000" />
       <workItem from="1599981392780" duration="1205000" />
+      <workItem from="1600057959331" duration="1781000" />
+      <workItem from="1600074758077" duration="886000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1599915597361</created>
@@ -1104,18 +1105,68 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/pointer/ThreeSumMulti.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="367" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pointer/ThreeSumMulti.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="368" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pointer/ThreeSumMulti.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="370" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pointer/ThreeSumMulti.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="371" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pointer/ThreeSumMulti.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="372" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pointer/ThreeSumMulti.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="373" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pointer/ThreeSumMulti.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="377" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pointer/ThreeSumMulti.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="378" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pointer/ThreeSumMulti.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="379" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pointer/FourSum.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="380" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pointer/FourSum.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="381" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pointer/FourSum.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="382" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pointer/FourSum.java</url>
           <line>55</line>
-          <option name="timeStamp" value="364" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/pointer/ThreeSumMulti.java</url>
-          <line>58</line>
-          <option name="timeStamp" value="365" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/pointer/ThreeSumMulti.java</url>
-          <line>59</line>
-          <option name="timeStamp" value="366" />
+          <option name="timeStamp" value="384" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
