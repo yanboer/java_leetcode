@@ -2,10 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb4aa1b7-8788-41eb-9b90-1b4b0710b590" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pointer/FourSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pointer/MinWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/Leetcode5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Le.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Le2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/T2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/pointer/ThreeSumMulti.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/pointer/ThreeSumMulti.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pointer/ThreeSumMulti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pointer/ThreeSumMulti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/pointer/FourSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/pointer/FourSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pointer/FourSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pointer/FourSum.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,16 +58,21 @@
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pointer" />
       <recent name="dp" />
       <recent name="simple" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -69,48 +87,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FourSum">
-    <configuration name="FourSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pointer.FourSum" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pointer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MinWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hard.MinWindow" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hard.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="midel.NumWays" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="midel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Test" />
+  <component name="RunManager" selected="Application.Leetcode5">
+    <configuration name="Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Constructor" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -122,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeSumMulti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pointer.ThreeSumMulti" />
+    <configuration name="Leetcode5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.Leetcode5" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pointer.*" />
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,13 +114,57 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Rabbit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Rabbit" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Le2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.Le2" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Le2.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.Le2" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FourSum" />
-        <item itemvalue="Application.NumWays" />
-        <item itemvalue="Application.ThreeSumMulti" />
-        <item itemvalue="Application.MinWindow" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Leetcode5" />
+        <item itemvalue="Application.Rabbit" />
+        <item itemvalue="Application.Constructor" />
+        <item itemvalue="JUnit.Le2.test1" />
+        <item itemvalue="JUnit.Le2" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +226,14 @@
       <workItem from="1599965222148" duration="4080000" />
       <workItem from="1599981392780" duration="1205000" />
       <workItem from="1600057959331" duration="1781000" />
-      <workItem from="1600074758077" duration="886000" />
+      <workItem from="1600074758077" duration="1251000" />
+      <workItem from="1600077428427" duration="76000" />
+      <workItem from="1600241692566" duration="830000" />
+      <workItem from="1600404402147" duration="296000" />
+      <workItem from="1600404762599" duration="2048000" />
+      <workItem from="1600499577820" duration="5933000" />
+      <workItem from="1600601243657" duration="1865000" />
+      <workItem from="1600961722354" duration="1555000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1599915597361</created>
@@ -1150,23 +1180,88 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/pointer/FourSum.java</url>
-          <line>31</line>
+          <line>32</line>
           <option name="timeStamp" value="380" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/pointer/FourSum.java</url>
-          <line>47</line>
+          <line>48</line>
           <option name="timeStamp" value="381" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/pointer/FourSum.java</url>
-          <line>46</line>
+          <line>47</line>
           <option name="timeStamp" value="382" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/pointer/FourSum.java</url>
-          <line>55</line>
+          <line>56</line>
           <option name="timeStamp" value="384" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Le.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="386" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Le.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="387" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Le.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="389" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Le.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="391" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Le.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="392" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Le.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="394" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Le.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="395" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Le.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="396" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Le2.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="397" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Le2.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="398" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Le2.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="399" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Le2.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="401" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/Leetcode5.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="402" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -1179,6 +1274,12 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leetcode$Permutation.ic" NAME="Permutation Coverage Results" MODIFIED="1599750183015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>dfs.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode$Leetcode5.ic" NAME="Leetcode5 Coverage Results" MODIFIED="1600961832832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>string.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode$Le_test.ic" NAME="Le.test Coverage Results" MODIFIED="1600501507580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
     </SUITE>
   </component>
 </project>
