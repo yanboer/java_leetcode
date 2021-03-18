@@ -2,18 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb4aa1b7-8788-41eb-9b90-1b4b0710b590" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sort_algorithm/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort_algorithm/Heap_sort_bymyself.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/Leetcode459.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factorization/Factorization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/midel/FindKthLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simple/LastRemaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simple/MaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort_algorithm/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort_algorithm/Per.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort_algorithm/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort_algorithm/TestMaHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort_algorithm/test/Heap_sort_bymyself.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort_algorithm/test/MergeSort_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort_algorithm/test/MyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort_algorithm/test/MyLRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort_algorithm/test/QuickQueryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort_algorithm/test/Signlnton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort_algorithm/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Car_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Coll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/TestHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/LowestCommonAncestor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/test/Rabbit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/test/Rabbit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Rabbit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Rabbit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/META-INF/leetcode.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/sort_algorithm/Heap_sort_bymyself.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/sort_algorithm/QuickQuery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/sort_algorithm/QuickQuery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/test/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/test/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/test/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/test/Constructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/test/D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/test/T.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/test/T.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/test/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/test/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sort_algorithm/Heap_sort_bymyself.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sort_algorithm/QuickQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort_algorithm/QuickQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Constructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/T.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/test.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,10 +97,10 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -76,26 +124,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Heap_sort_bymyself">
-    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort_algorithm.HeapSort" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sort_algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MergeSort_Test">
     <configuration name="Heap_sort_bymyself" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort_algorithm.Heap_sort_bymyself" />
+      <option name="MAIN_CLASS_NAME" value="sort_algorithm.test.Heap_sort_bymyself" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort_algorithm.*" />
+          <option name="PATTERN" value="sort_algorithm.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode459" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.Leetcode459" />
+    <configuration name="MergeSort_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort_algorithm.test.MergeSort_Test" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="sort_algorithm.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.Leetcode5" />
+    <configuration name="QuickQueryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort_algorithm.test.QuickQueryTest" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="sort_algorithm.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,26 +164,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rabbit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Rabbit" />
+    <configuration name="Signlnton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Signlnton" />
       <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Signlnton" />
+      <item itemvalue="Application.QuickQueryTest" />
+      <item itemvalue="Application.Heap_sort_bymyself" />
+      <item itemvalue="Application.MergeSort_Test" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeSort_Test" />
         <item itemvalue="Application.Heap_sort_bymyself" />
-        <item itemvalue="Application.HeapSort" />
-        <item itemvalue="Application.Leetcode459" />
-        <item itemvalue="Application.Rabbit" />
-        <item itemvalue="Application.Leetcode5" />
+        <item itemvalue="Application.QuickQueryTest" />
+        <item itemvalue="Application.Signlnton" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +263,78 @@
       <workItem from="1600961722354" duration="1555000" />
       <workItem from="1600964507401" duration="186000" />
       <workItem from="1601024414153" duration="1666000" />
-      <workItem from="1601301699914" duration="5897000" />
+      <workItem from="1601301699914" duration="6404000" />
+      <workItem from="1601364035357" duration="563000" />
+      <workItem from="1601396442640" duration="463000" />
+      <workItem from="1601454251779" duration="2579000" />
+      <workItem from="1601528024632" duration="3670000" />
+      <workItem from="1601609121771" duration="1627000" />
+      <workItem from="1601619026464" duration="9595000" />
+      <workItem from="1601695753161" duration="10106000" />
+      <workItem from="1601767215097" duration="13764000" />
+      <workItem from="1601876692444" duration="7000" />
+      <workItem from="1601876843887" duration="3649000" />
+      <workItem from="1601895959295" duration="4230000" />
+      <workItem from="1601961113466" duration="1174000" />
+      <workItem from="1601965911450" duration="5048000" />
+      <workItem from="1601997951857" duration="2293000" />
+      <workItem from="1602047551886" duration="1974000" />
+      <workItem from="1602074407617" duration="193000" />
+      <workItem from="1602083084727" duration="1805000" />
+      <workItem from="1602138701090" duration="8642000" />
+      <workItem from="1602169467333" duration="3412000" />
+      <workItem from="1602230833149" duration="641000" />
+      <workItem from="1602250339164" duration="666000" />
+      <workItem from="1602255652248" duration="3336000" />
+      <workItem from="1602306088700" duration="1306000" />
+      <workItem from="1602347595188" duration="467000" />
+      <workItem from="1602506697965" duration="2204000" />
+      <workItem from="1602514655324" duration="230000" />
+      <workItem from="1602514900114" duration="687000" />
+      <workItem from="1602686848974" duration="28000" />
+      <workItem from="1602687436248" duration="28000" />
+      <workItem from="1602776915796" duration="1275000" />
+      <workItem from="1602778222214" duration="183000" />
+      <workItem from="1602778415665" duration="516000" />
+      <workItem from="1602778965207" duration="176000" />
+      <workItem from="1602779183119" duration="100000" />
+      <workItem from="1602821391591" duration="1219000" />
+      <workItem from="1602824066579" duration="632000" />
+      <workItem from="1602830237752" duration="70000" />
+      <workItem from="1602855132572" duration="1663000" />
+      <workItem from="1602865631326" duration="835000" />
+      <workItem from="1602866507921" duration="40000" />
+      <workItem from="1602866590383" duration="95000" />
+      <workItem from="1602866735200" duration="157000" />
+      <workItem from="1602866933336" duration="69000" />
+      <workItem from="1602867011632" duration="112000" />
+      <workItem from="1602867135253" duration="398000" />
+      <workItem from="1602938962463" duration="37000" />
+      <workItem from="1602951333095" duration="1673000" />
+      <workItem from="1602991089603" duration="3827000" />
+      <workItem from="1603019804320" duration="613000" />
+      <workItem from="1603200509374" duration="1388000" />
+      <workItem from="1603246341682" duration="68000" />
+      <workItem from="1603293148676" duration="996000" />
+      <workItem from="1603381475362" duration="453000" />
+      <workItem from="1603617563852" duration="92000" />
+      <workItem from="1603788940616" duration="5569000" />
+      <workItem from="1603857787883" duration="1429000" />
+      <workItem from="1604205402116" duration="4564000" />
+      <workItem from="1604289693182" duration="127000" />
+      <workItem from="1604297340636" duration="1405000" />
+      <workItem from="1604369405274" duration="19000" />
+      <workItem from="1604369560702" duration="1488000" />
+      <workItem from="1604399925970" duration="1210000" />
+      <workItem from="1604454982968" duration="5016000" />
+      <workItem from="1604549509199" duration="36000" />
+      <workItem from="1604549655657" duration="1605000" />
+      <workItem from="1604665544713" duration="1890000" />
+      <workItem from="1615284371390" duration="157000" />
+      <workItem from="1615284649940" duration="4762000" />
+      <workItem from="1615338106407" duration="424000" />
+      <workItem from="1615372881581" duration="1427000" />
+      <workItem from="1615424490766" duration="500000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1599915597361</created>
@@ -722,12 +836,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/Test.java</url>
-          <line>19</line>
+          <line>23</line>
           <option name="timeStamp" value="187" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/Test.java</url>
-          <line>16</line>
+          <line>20</line>
           <option name="timeStamp" value="188" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -1279,6 +1393,146 @@
           <url>file://$PROJECT_DIR$/src/string/Leetcode459.java</url>
           <line>59</line>
           <option name="timeStamp" value="408" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Coll.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="409" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Coll.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="410" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Coll.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="411" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Coll.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="412" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Coll.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="413" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Coll.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="414" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Coll.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="415" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Coll.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="416" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Coll.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="417" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Coll.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="418" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Coll.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="419" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Coll.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="420" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Coll.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="422" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Coll.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="423" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Coll.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="424" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/StringTest.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="428" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/StringTest.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="432" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/StringTest.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="433" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/StringTest.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="434" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/StringTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="435" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/StringTest.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="436" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Test.java</url>
+          <line>211</line>
+          <option name="timeStamp" value="437" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Test.java</url>
+          <line>209</line>
+          <option name="timeStamp" value="438" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/midel/FindKthLargest.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="439" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/midel/FindKthLargest.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="441" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/midel/FindKthLargest.java</url>
+          <line>139</line>
+          <option name="timeStamp" value="442" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="443" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="444" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,6 +1,10 @@
 package test;
 
+import com.sun.org.apache.xpath.internal.operations.String;
+
 import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.CopyOnWriteArrayList;
 
 public class Test {
     public static void main(String[] args) {
@@ -155,5 +159,61 @@ public class Test {
 //        System.out.println(list.contains(a));
 
     }
+
+    @org.junit.Test
+    public void test(){
+        java.lang.String s1 = "a";
+
+        java.lang.String s2 = new java.lang.String("a");
+
+        System.out.println(s1 == s2.intern());
+    }
+
+    /**
+     * Vector 可重复
+     */
+    @org.junit.Test
+    public void testVector(){
+        Vector<Integer> v = new Vector<>();
+        v.add(1);
+        v.add(2);
+        v.add(3);
+
+        v.add(1);
+        v.add(2);
+        v.add(3);
+
+        System.out.println(Arrays.toString(v.toArray()));
+    }
+
+
+    /**
+     * CopyOnWriteArrayList 可重复
+     */
+    @org.junit.Test
+    public void testCopyOnWirteArrayList(){
+        CopyOnWriteArrayList<Integer> c = new CopyOnWriteArrayList<>();
+        c.add(1);
+        c.add(2);
+        c.add(3);
+
+        c.add(1);
+        c.add(2);
+        c.add(3);
+
+        System.out.println(Arrays.toString(c.toArray()));
+    }
+
+
+    @org.junit.Test
+    public void testHashMap(){
+        Map<Integer,Integer> map = new HashMap<>(10);
+
+        map.put(1,1);
+        map.put(1,1);
+        map.put(1,1);
+        map.put(1,1);
+    }
+
 
 }
